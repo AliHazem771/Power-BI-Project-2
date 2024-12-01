@@ -4,6 +4,12 @@
 
 This Power BI dashboard visualises key metrics related to revenue, fees, and marketing spend. Originally created as an Excel dashboard, it has been transformed into a dynamic Power BI dashboard for enhanced data analysis and visualisation.
 
+## Excel Original
+
+![Dashboard](https://github.com/AliHazem771/Power-BI-Project-2/blob/main/Image%20excel.PNG?raw=true)
+
+## Power BI after conversion
+
 ![Dashboard](https://github.com/AliHazem771/Power-BI-Project-2/blob/main/Image%20power%20bi.PNG?raw=true)
 
 ## Dashboard Components
