@@ -10,7 +10,7 @@ This Power BI dashboard visualises key metrics related to revenue, fees, and mar
 
 ## Power BI after conversion
 
-![Dashboard](https://github.com/AliHazem771/Power-BI-Project-2/blob/main/Image%20power%20bi.PNG?raw=true)
+![Dashboard](https://github.com/AliHazem771/Power-BI-Project-2/blob/main/Power%20BI%20Image.PNG?raw=true)
 
 ## Dashboard Components
 
