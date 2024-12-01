@@ -2,14 +2,14 @@
 
 ## Overview
 
-This Power BI dashboard visualizes key metrics related to revenue, fees, and marketing spend. Originally created as an Excel dashboard, it has been transformed into a dynamic Power BI dashboard for enhanced data analysis and visualization.
+This Power BI dashboard visualises key metrics related to revenue, fees, and marketing spend. Originally created as an Excel dashboard, it has been transformed into a dynamic Power BI dashboard for enhanced data analysis and visualisation.
 
 ## Dashboard Components
 
 - **Revenue Metrics**: Displays total revenue versus total target, allowing for quick assessment of performance against goals.
 - **Bar Chart**: Illustrates the revenue breakdown by various segments, highlighting areas of opportunity and performance.
 - **Line Graphs**: Show trends over time for revenue and marketing spend, providing insights into seasonal patterns and growth.
-- **Scatter Plot**: Analyzes the relationship between revenue and marketing spend, helping to identify effective marketing strategies.
+- **Scatter Plot**: Analyses the relationship between revenue and marketing spend, helping to identify effective marketing strategies.
 
 ## Insights
 
@@ -25,4 +25,4 @@ This Power BI dashboard visualizes key metrics related to revenue, fees, and mar
 
 ## Conclusion
 
-This Power BI dashboard is a powerful tool for visualizing and analyzing revenue data, helping stakeholders make data-driven decisions. The transition from Excel to Power BI has enhanced interactivity and visualization capabilities, making it easier to derive insights from complex datasets.
+This Power BI dashboard is a powerful tool for visualising and analysing revenue data, helping stakeholders make data-driven decisions. The transition from Excel to Power BI has enhanced interactivity and visualisation capabilities, making it easier to derive insights from complex datasets.
